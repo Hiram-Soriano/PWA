@@ -1,0 +1,22 @@
+{
+    "name": "Buscador de CEP",
+    "short_name": "HiramSS",
+    "description": "Buscador de CEP Desenvolvido por Hiram Soriano",
+    "lang": "pt-BR",
+    "start_url": "./",
+    "scope": "./?",
+    "display": "fullscreen",
+    "theme_color": "black",
+    "icons": [{
+            "src": "img/cep.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "img/cep.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        }
+    ],
+    "background_color": "#000000"
+}
