@@ -9,12 +9,12 @@
     "theme_color": "black",
     "icons": [{
             "src": "img/cep.png",
-            "sizes": "512x512",
+            "sizes": "1090x1090",
             "type": "image/png"
         },
         {
             "src": "img/cep.png",
-            "sizes": "48x48",
+            "sizes": "1090x1090",
             "type": "image/png"
         }
     ],
